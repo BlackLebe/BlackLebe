@@ -1,6 +1,6 @@
 ### Olá Mundo! Eu sou o Calebe Honorato 😎💻
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lelebe_lebe/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lelebe_lebe/) [!linkedin](htps://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](htps://www.linkedin.com/in/calebe-honorato-ribeiro-bastos-08912a20b/?original_referer=)
 
 ![Calebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=blacklebe&show_icons=true&theme=merko)
 
