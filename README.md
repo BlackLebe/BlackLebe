@@ -16,4 +16,5 @@
     <img align=center alt="bootstrap" src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white />
     <img align=center alt="java" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white />
     <img align=center alt="Python" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
+    <img align=center alt="C#" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white />
 </div>
