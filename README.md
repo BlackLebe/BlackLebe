@@ -1,7 +1,7 @@
 ## Olá Mundo! Eu sou o Calebe Honorato 😎💻
 ### Estou cursando bacherelado em Ciências da Computação (me formo em 2025).
-### Atualmente trabalho como trainee em desenvolvimento .Net e estou aprendendo sobre.
-### Mas também sei bastante sobre Salesforce.
+### Atualmente trabalho como trainee em desenvolvimento .Net e estou estudando isso também para aprimorar minhas habilidades.
+### Sei bastante sobre Salesforce tendo inclusive trabalhado como analista num projeto de sustentação.
 
 [![instagram](https://img.shields.io/badge/Instagram-8600a1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lelebe_lebe/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-8600a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebe-honorato-ribeiro-bastos-08912a20b/?original_referer=)
